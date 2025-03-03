@@ -132,4 +132,15 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem{
+        width: 80%;
+        border: 1px solid var(--cor-terciaria);
+    }
+    .apresentacao__imagens{
+        margin-right: 25%;
+    }
+    .apresentacao__imagens__imagem1{
+        width: 150%;
+        border: 1px solid var(--cor-terciaria);
+    }
 }
